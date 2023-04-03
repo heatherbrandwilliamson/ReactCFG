@@ -1,0 +1,19 @@
+.header {
+
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background:#eee7e1;
+    position: sticky;
+    display: flex;
+    top: 0;
+    font-size: 30px;
+    padding: 25px;
+  }
+
+.headerLeft, .headerRight{
+  flex: 3;
+}
+
+.headerCentre{
+  flex: 6;
+}

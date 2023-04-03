@@ -1,0 +1,28 @@
+.posts {
+  padding: 30px;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  background:#ffffff;
+  position: sticky;
+  display: flex;
+  top: 0;
+}
+
+.postsLeft, .postsRight{
+flex: 3;
+}
+
+.postsCentre{
+flex: 6;
+}
+
+
+.postsImg{
+    height: 300px;
+    border-radius: 25px;
+  }
+
+  .imghover {
+    opacity: 1.0;
+  }

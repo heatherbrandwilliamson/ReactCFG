@@ -1,0 +1,17 @@
+.body {
+
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background:#eee7e1;
+    position: sticky;
+    display: flex;
+    top: 0;
+  }
+
+.bodyLeft, .bodyRight{
+  flex: 3;
+}
+
+.bodyCentre{
+  flex: 6;
+}

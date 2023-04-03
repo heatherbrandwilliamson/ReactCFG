@@ -1,0 +1,28 @@
+
+.ul {
+    list-style-type: none; /* Remove bullets */
+    padding: 18px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background:#eee7e1;
+    position: sticky;
+    display: flex;
+  }
+
+.navLeft, .navRight{
+  flex: 3;
+}
+
+.navCentre{
+  flex: 1;
+}
+
+.services {
+  color: #200f03;
+}
+
+.products {
+  color: #200f03;
+}
+
